@@ -34,7 +34,7 @@ import qgis.utils
 
 ## Example
 
-In this example we will load a vector point layer of the major airports in the world and write a Python script to print out the name, code, latitude and longitude of each airport. To accomplish this, we:
+In this example we will load a vector point layer of the major airports in the world and write a Python script to print out the name, code, latitude and longitude of each airport in the northern hemisphere. To accomplish this, we:
 
 **Load the Vector Layer**
 
